@@ -1,0 +1,250 @@
+black  :
+ amarberry   : 0
+ azulberry   : 0
+ tintoberry  : 0
+ narcoberry  : 15
+ stimberry   : 0
+ charcoal    : 2
+ gunpowder   : 0
+ sparkpowder : 0
+ hexcode     : 1c1c1c
+blue:
+ amarberry   : 0
+ azulberry   : 15
+ tintoberry  : 0
+ narcoberry  : 0
+ stimberry   : 0
+ charcoal    : 2
+ gunpowder   : 0
+ sparkpowder : 0
+ hexcode     : 0000ff
+brick:
+ amarberry   : 0
+ azulberry   : 0
+ tintoberry  : 12
+ narcoberry  : 6
+ stimberry   : 0
+ charcoal    : 0
+ gunpowder   : 0
+ sparkpowder : 1
+ hexcode     : 94321c
+brown:
+ amarberry   : 6
+ azulberry   : 3
+ tintoberry  : 9
+ narcoberry  : 0
+ stimberry   : 0
+ charcoal    : 2
+ gunpowder   : 0
+ sparkpowder : 0
+ hexcode     : 756046
+cantaloupe:
+ amarberry   : 7
+ azulberry   : 0
+ tintoberry  : 7
+ narcoberry  : 0
+ stimberry   : 4
+ charcoal    : 0
+ gunpowder   : 0
+ sparkpowder : 1
+ hexcode     : ff9a00
+cyan:
+ amarberry   : 6
+ azulberry   : 12
+ tintoberry  : 0
+ narcoberry  : 0
+ stimberry   : 0
+ charcoal    : 0
+ gunpowder   : 0
+ sparkpowder : 1
+ hexcode     : 00ffff
+forest:
+ amarberry   : 7
+ azulberry   : 7
+ tintoberry  : 0
+ narcoberry  : 4
+ stimberry   : 0
+ charcoal    : 0
+ gunpowder   : 1
+ sparkpowder : 0
+ hexcode     : 006b00
+green:
+ amarberry   : 9
+ azulberry   : 9
+ tintoberry  : 0
+ narcoberry  : 0
+ stimberry   : 0
+ charcoal    : 2
+ gunpowder   : 0
+ sparkpowder : 0
+ hexcode     : 00ff00
+magenta:
+ amarberry   : 0
+ azulberry   : 9
+ tintoberry  : 9
+ narcoberry  : 0
+ stimberry   : 0
+ charcoal    : 0
+ gunpowder   : 0
+ sparkpowder : 1
+ hexcode     : e71cd9
+mud:
+ amarberry   : 4
+ azulberry   : 1
+ tintoberry  : 7
+ narcoberry  : 6
+ stimberry   : 0
+ charcoal    : 0
+ gunpowder   : 0
+ sparkpowder : 1
+ hexcode     : 463b2b
+navy:
+ amarberry   : 0
+ azulberry   : 12
+ tintoberry  : 0
+ narcoberry  : 6
+ stimberry   : 0
+ charcoal    : 0
+ gunpowder   : 0
+ sparkpowder : 1
+ hexcode     : 32326b
+olive:
+ amarberry   : 12
+ azulberry   : 0
+ tintoberry  : 0
+ narcoberry  : 6
+ stimberry   : 0
+ charcoal    : 0
+ gunpowder   : 0
+ sparkpowder : 1
+ hexcode     : baba59
+orange:
+ amarberry   : 9
+ azulberry   : 0
+ tintoberry  : 9
+ narcoberry  : 0
+ stimberry   : 0
+ charcoal    : 2
+ gunpowder   : 0
+ sparkpowder : 0
+ hexcode     : ff8800
+parchment:
+ amarberry   : 12
+ azulberry   : 0
+ tintoberry  : 0
+ narcoberry  : 6
+ stimberry   : 0
+ charcoal    : 0
+ gunpowder   : 0
+ sparkpowder : 1
+ hexcode     : ffffba
+pink:
+ amarberry   : 0
+ azulberry   : 0
+ tintoberry  : 12
+ narcoberry  : 0
+ stimberry   : 6
+ charcoal    : 0
+ gunpowder   : 1
+ sparkpowder : 0
+ hexcode     : ff7be1
+purple:
+ amarberry   : 0
+ azulberry   : 9
+ tintoberry  : 9
+ narcoberry  : 0
+ stimberry   : 0
+ charcoal    : 2
+ gunpowder   : 0
+ sparkpowder : 0
+ hexcode     : 7b00e0
+red:
+ amarberry   : 0
+ azulberry   : 0
+ tintoberry  : 12
+ narcoberry  : 0
+ stimberry   : 0
+ charcoal    : 2
+ gunpowder   : 0
+ sparkpowder : 0
+ hexcode     : ff0000
+royalty:
+ amarberry   : 0
+ azulberry   : 7
+ tintoberry  : 7
+ narcoberry  : 4
+ stimberry   : 0
+ charcoal    : 0
+ gunpowder   : 1
+ sparkpowder : 0
+ hexcode     : 7b00a8
+silver:
+ amarberry   : 0
+ azulberry   : 0
+ tintoberry  : 0
+ narcoberry  : 6
+ stimberry   : 12
+ charcoal    : 0
+ gunpowder   : 1
+ sparkpowder : 0
+ hexcode     : e0e0e0
+sky:
+ amarberry   : 0
+ azulberry   : 12
+ tintoberry  : 0
+ narcoberry  : 0
+ stimberry   : 6
+ charcoal    : 0
+ gunpowder   : 1
+ sparkpowder : 0
+ hexcode     : bad4ff
+slate:
+ amarberry   : 0
+ azulberry   : 0
+ tintoberry  : 0
+ narcoberry  : 12
+ stimberry   : 6
+ charcoal    : 0
+ gunpowder   : 0
+ sparkpowder : 1
+ hexcode     : 595959
+tan:
+ amarberry   : 4
+ azulberry   : 1
+ tintoberry  : 7
+ narcoberry  : 0
+ stimberry   : 6
+ charcoal    : 0
+ gunpowder   : 1
+ sparkpowder : 0
+ hexcode     : ffedb2
+tangerine:
+ amarberry   : 7
+ azulberry   : 0
+ tintoberry  : 7
+ narcoberry  : 4
+ stimberry   : 0
+ charcoal    : 0
+ gunpowder   : 1
+ sparkpowder : 0
+ hexcode     : ad652b
+white:
+ amarberry   : 0
+ azulberry   : 0
+ tintoberry  : 0
+ narcoberry  : 0
+ stimberry   : 15
+ charcoal    : 2
+ gunpowder   : 0
+ sparkpowder : 0
+ hexcode     : fefefe
+yellow:
+ amarberry   : 15
+ azulberry   : 0
+ tintoberry  : 0
+ narcoberry  : 0
+ stimberry   : 0
+ charcoal    : 2
+ gunpowder   : 0
+ sparkpowder : 0
+ hexcode     : ffff00
