@@ -1,9 +1,11 @@
 from __future__ import print_function
 import yaml
 
+# TODO Clear old code, ensure that nothing is behaving badly.
+
 # initialize the yml file to be read
 with open('recipes.yaml', 'r') as ymlfile:
-    cfg = yaml.load(ymlfile)
+    cfg = yaml.load(ymlfile, Loader=yaml.FullLoader)
 
 # initialize the variables
 infinite = True
